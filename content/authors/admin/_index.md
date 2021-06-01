@@ -1,7 +1,7 @@
 ---
 title: Mengmeng Xu (Frost)
 role: PhD Student of Electrical and Computer Engineering
-avatar_filename: frost.jpg
+avatar_filename: frost.jpeg
 bio: I am focusing on problems that arise in image and video understanding.
   Particularly, I am interested in the representation of long untrimmed videos
   via self-supervised learning with novel model architectures. I am also
