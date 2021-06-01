@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Mengmeng Xu (Frost) # Website name
-baseurl: 'https://hopeful-mcclintock-f5aa62.netlify.app' # Website URL
+baseurl: 'https://mengmengxu.netlify.app' # Website URL
 copyright: '© {year} Mengmeng Xu (Frost)' # Footer text, e.g. '© {year} Me'
 
 ############################
