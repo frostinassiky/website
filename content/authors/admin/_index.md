@@ -16,30 +16,30 @@ social:
     link: /#contact
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/FrostXuMengmeng
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=be_ox9QAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/frostinassiky
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/frost-xu/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: King Abdullah University of Science and Technology
+    url: https://www.kaust.edu.sa/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Electrical and Computer Engineering
+      institution: King Abdullah University of Science and Technology
+      year: ""
+    - course: MEng in Electrical and Computer Engineering
+      institution: King Abdullah University of Science and Technology
+      year: ""
+    - course: BSc in Opto-Elctronics Information Science and Engineering
+      institution: Zhejiang University
+      year: ""
 email: ""
 superuser: true
 highlight_name: false
