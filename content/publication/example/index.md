@@ -32,7 +32,17 @@ authors:
   - Bernard Ghanem
 author_notes: []
 publication: In *CVPR20*
-summary: ""
+summary: >
+  Recent studies show that context can be used as a clue to help understanding
+  action before or after the snippet. Thus,
+
+  we formulated action localization task to a sub-graph detection problem, solved by graph convolutional network.
+
+
+  • A multi-graph convolutional layer is designed to progressively represent the video snippet by its adaptive semantics.
+
+
+  • The method achieves SOTA performance on two large-scale video benchmarks for human activity localization.
 url_dataset: ""
 url_project: ""
 publication_short: ""
