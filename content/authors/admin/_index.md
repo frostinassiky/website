@@ -40,7 +40,7 @@ education:
     - course: BSc in Opto-Elctronics Information Science and Engineering
       institution: Zhejiang University
       year: ""
-email: ""
+email: xu.frost[at]gmail.com
 superuser: true
 highlight_name: false
 ---
