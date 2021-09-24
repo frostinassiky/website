@@ -26,7 +26,7 @@ experience:
   - title: Applied Scientest Intern
     company: Amazon.com, Inc
     company_url: ''
-    company_logo: amazon
+ #   company_logo: amazon
     location: Berlin, Germany
     date_start: '2021-09-01'
     date_end: ''
@@ -40,7 +40,7 @@ experience:
   - title: Research Intern
     company: Samsung Electronics (UK) Ltd
     company_url: ''
-    company_logo: samsung
+ #   company_logo: samsung
     location: Cambridge, UK
     date_start: '2020-10-01'
     date_end: '2021-03-31'
