@@ -48,6 +48,6 @@ Mengmeng Xu (Frost) was an Electrical and Computer Engineering PhD Student in Im
 
 Frost obtained his bachelor's degree in Optics and Optical Sciences from Zhejiang University in China in 2017 and his Master's Degree from KAUST under the supervision of Professor Bernard Ghanem.
 
-He is mainly focusing on problems that arise in computer vision, including activity recognition and detection, robust representations of objects for tracking and recognition, scene understanding from 3D data and image annotation. He is also interested in developing new machine learning and optimization methods.
+Currently, Frost is focusing on problems that arise in image and video understanding. Particularly, Frost is interested in the representation of long untrimmed videos via self-supervised learning with novel model architectures. Frost is also interested in video localization tasks such as temporal action localization and language video grounding.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/frost_cv_may_2021.pdf" "newtab" >}}resumé{{< /staticref >}}.
