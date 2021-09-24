@@ -47,7 +47,7 @@ image:
   caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
   focal_point: ""
   preview_only: false
-  filename: https://github.com/frostinassiky/gtad/blob/master/gtad_overview.png?raw=true
+  filename: featured.png
 date: 2013-07-01T00:00:00.000Z
 url_slides: ""
 publishDate: 2017-01-01T00:00:00.000Z
