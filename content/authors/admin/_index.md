@@ -46,7 +46,7 @@ highlight_name: false
 ---
 
 
-Frost is currently a PhD Student in {{< staticref "https://cemse.kaust.edu.sa/ivul" "newtab" >}}Image and Video Understanding Lab (IVUL) {{< /staticref >}} at {{< staticref "https://www.kaust.edu.sa/en" "newtab" >}}King Abdullah University of Science and Technology (KAUST){{< /staticref >}} under the supervision of {{< /staticref >}} at {{< staticref "https://www.bernardghanem.com/home" "newtab" >}}Professor Bernard Ghanem{{< /staticref >}}. His research interests are computer vision and video understanding. 
+Frost is currently a PhD Student in [Image and Video Understanding Lab (IVUL)](https://cemse.kaust.edu.sa/ivul) at [King Abdullah University of Science and Technology (KAUST)](https://www.kaust.edu.sa/en) under the supervision of [Professor Bernard Ghanem](https://www.bernardghanem.com/home). His research interests are computer vision and video understanding. 
 
 Frost obtained his bachelor's degree in Optics and Optical Sciences from Zhejiang University in China in 2017 and his Master's Degree from KAUST. He has also spent time at Samsung AI Centre, Cambridge.
 
