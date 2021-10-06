@@ -11,7 +11,7 @@ authors:
   - Li Zhang
   - Bernard Ghanem
   - Tao Xiang
-publication: In *ICCV'21*
+publication: ICCV 2021
 abstract: Many video analysis tasks require temporal localization thus detection
   of content changes. However, most existing models developed for these tasks
   are pre-trained on general video action classification tasks. This is because
