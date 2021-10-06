@@ -1,6 +1,6 @@
 ---
 title: Low-Fidelity End-to-End Video Encoder Pre-training for Temporal Action
-  Localization Mengmeng
+  Localization
 publication_types:
   - "1"
 authors:
