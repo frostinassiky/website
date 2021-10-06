@@ -44,9 +44,11 @@ email: xu.frost[at]gmail.com
 superuser: true
 highlight_name: false
 ---
-Mengmeng Xu (Frost) was an Electrical and Computer Engineering PhD Student in Image and Video Understanding Lab (IVUL) Group at King Abdullah University of Science and Technology (KAUST) under the supervision of Professor Bernard Ghanem. He is currently continuing his Ph.D.
 
-Frost obtained his bachelor's degree in Optics and Optical Sciences from Zhejiang University in China in 2017 and his Master's Degree from KAUST under the supervision of Professor Bernard Ghanem.
+
+Frost is currently a PhD Student in Image and Video Understanding Lab (IVUL) at King Abdullah University of Science and Technology (KAUST) under the supervision of Professor Bernard Ghanem. His research interests are computer vision and video understanding. 
+
+Frost obtained his bachelor's degree in Optics and Optical Sciences from Zhejiang University in China in 2017 and his Master's Degree from KAUST. He has also spent time at Samsung AI Centre, Cambridge.
 
 Currently, Frost is focusing on problems that arise in image and video understanding. Particularly, Frost is interested in the representation of long untrimmed videos via self-supervised learning with novel model architectures. Frost is also interested in video localization tasks such as temporal action localization and language video grounding.
 
