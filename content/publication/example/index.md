@@ -31,7 +31,7 @@ authors:
   - Ali Thabet
   - Bernard Ghanem
 author_notes: []
-publication: In *CVPR20*
+publication: CVPR 2020
 summary: >
   Recent studies show that context can be used as a clue to help understanding
   action before or after the snippet. Thus,
