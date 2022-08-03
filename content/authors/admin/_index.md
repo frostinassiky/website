@@ -27,8 +27,10 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/frost-xu/
 organizations:
-  - name: King Abdullah University of Science and Technology
+  - name: KAUST
     url: https://www.kaust.edu.sa/
+  - name: Meta AI
+    url: https://ai.facebook.com/
 education:
   courses:
     - course: PhD in Electrical and Computer Engineering
@@ -44,12 +46,10 @@ email: xu.frost[at]gmail.com
 superuser: true
 highlight_name: false
 ---
-
-
 Frost is currently a PhD Student in [Image and Video Understanding Lab (IVUL)](https://cemse.kaust.edu.sa/ivul) at [King Abdullah University of Science and Technology (KAUST)](https://www.kaust.edu.sa/en) under the supervision of [Professor Bernard Ghanem](https://www.bernardghanem.com/home). His research interests are computer vision and video understanding. 
 
 Frost obtained his bachelor's degree in Optics and Optical Sciences from Zhejiang University in China in 2017 and his Master's Degree from KAUST. He has also spent time at Samsung AI Centre, Cambridge.
 
-Currently, Frost is focusing on problems that arise in image and video understanding. Particularly, Frost is interested in the representation of long untrimmed videos via self-supervised learning with novel model architectures. Frost is also interested in video localization tasks such as temporal action localization and language video grounding.
+Currently, Frost is focusing on problems that arise in image and video understanding. Particularly, Frost is interested in the representation of long untrimmed videos via self-supervised learning with novel model architectures. Frost is also interested in video localization tasks such as temporal action localization and video object localization.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/frost_cv_may_2021.pdf" "newtab" >}}resumé{{< /staticref >}}.
