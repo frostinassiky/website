@@ -23,13 +23,21 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 
 experience:
+  - title: Research Scientest Intern
+    company: Meta Platforms, Inc.
+    company_url: ''
+ #   company_logo: meta
+    location: London, UK
+    date_start: '2022-03-28'
+    date_end: ''
+    
   - title: Applied Scientest Intern
     company: Amazon.com, Inc
     company_url: ''
  #   company_logo: amazon
     location: Berlin, Germany
     date_start: '2021-09-01'
-    date_end: ''
+    date_end: '2022-01-31'
  #    description: |2-
  #        Responsibilities include:
  #        
