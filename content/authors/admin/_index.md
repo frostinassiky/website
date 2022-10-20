@@ -29,7 +29,7 @@ social:
 organizations:
   - name: KAUST
     url: https://www.kaust.edu.sa/
-  - name: Meta AI
+  - name: Meta (Facebook) AI
     url: https://ai.facebook.com/
 education:
   courses:
