@@ -1,15 +1,12 @@
 ---
-title: Mengmeng Xu (Frost)
-role: PhD Candidate of Electrical and Computer Engineering
+title: Dr Mengmeng Xu (Frost)
+role: AI Research Scientist at Meta
 avatar_filename: avatar.png
-bio: I am focusing on problems that arise in image and video understanding.
-  Particularly, I am interested in the representation of long untrimmed videos
-  via self-supervised learning with novel model architectures. I am also
-  interested in video localization tasks such as temporal action localization
-  and language video grounding.
+bio: I am focusing on problems that arise in image and video generation and understanding.
+  Particularly, I am interested in the representation of long videos with novel model architectures. I also did query localization in video during my PhD research.
 interests:
-  - Computer Vision
   - Video Understanding
+  - Video Generation
 social:
   - icon: envelope
     icon_pack: fas
@@ -29,19 +26,19 @@ social:
 organizations:
   - name: KAUST
     url: https://www.kaust.edu.sa/
-  - name: Meta (Facebook) AI
+  - name: AI at Meta
     url: https://ai.facebook.com/
 education:
   courses:
     - course: PhD in Electrical and Computer Engineering
       institution: King Abdullah University of Science and Technology
-      year: ""
-    - course: MEng in Electrical and Computer Engineering
+      year: "2023"
+    - course: MEng in Electrical and Engineering
       institution: King Abdullah University of Science and Technology
-      year: ""
+      year: "2019"
     - course: BSc in Opto-Elctronics Information Science and Engineering
       institution: Zhejiang University
-      year: ""
+      year: "2017"
 email: xu.frost[at]gmail.com
 superuser: true
 highlight_name: false
@@ -52,4 +49,4 @@ Frost obtained his bachelor's degree in Optics and Optical Sciences from Zhejian
 
 Currently, Frost is focusing on problems that arise in image and video understanding. Particularly, Frost is interested in the representation of long untrimmed videos via self-supervised learning with novel model architectures. Frost is also interested in video localization tasks such as temporal action localization and video object localization.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/frost_cv_aug_2022.pdf" "newtab" >}}resumé{{< /staticref >}} . Please email me for the recent version.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/frost_cv_aug_2022.pdf" "newtab" >}}resumé{{< /staticref >}} . Please email me for the recent CV.
