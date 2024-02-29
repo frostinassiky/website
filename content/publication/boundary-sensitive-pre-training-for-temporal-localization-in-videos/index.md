@@ -29,7 +29,7 @@ abstract: Many video analysis tasks require temporal localization thus detection
   existing action classification based pre-training counterpart, and achieves
   new state-of-the-art performance on several temporal localization tasks.
 draft: false
-featured: true
+featured: false
 image:
   filename: featured.png
   focal_point: Smart

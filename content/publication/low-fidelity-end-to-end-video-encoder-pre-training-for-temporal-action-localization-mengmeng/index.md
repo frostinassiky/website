@@ -32,7 +32,7 @@ abstract: Temporal action localization (TAL) is a fundamental yet challenging
   our method surpasses two-stream ResNet50 based alternatives with expensive
   optical flow, often by a good margin.
 draft: false
-featured: true
+featured: false
 image:
   filename: featured.png
   focal_point: Smart
