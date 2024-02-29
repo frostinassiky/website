@@ -1,6 +1,6 @@
 ---
 title: Dr Mengmeng Xu (Frost)
-role: AI Research Scientist at Meta
+role: AI Research Scientist
 avatar_filename: avatar.png
 bio: I am focusing on problems that arise in image and video generation and understanding.
   Particularly, I am interested in the representation of long videos with novel model architectures. I also did query localization in video during my PhD research.
@@ -24,10 +24,10 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/frost-xu/
 organizations:
-  - name: KAUST
-    url: https://www.kaust.edu.sa/
   - name: AI at Meta
     url: https://ai.facebook.com/
+  - name: KAUST
+    url: https://www.kaust.edu.sa/
 education:
   courses:
     - course: PhD in Electrical and Computer Engineering
@@ -45,8 +45,6 @@ highlight_name: false
 ---
 
 Frost is an AI Research Scientist at [Meta](https://ai.meta.com), based in London. He is dedicated to advancing the field of video generation and understanding, with the ultimate goal of giving people the power to build community and bring the world closer together.  His work involves conducting both fundamental and applied research in this area.
-
-
-In 2023, Frost recieved his PhD degree in [Image and Video Understanding Lab (IVUL)](https://cemse.kaust.edu.sa/ivul) at [King Abdullah University of Science and Technology (KAUST)](https://www.kaust.edu.sa/en) under the supervision of [Professor Bernard Ghanem](https://www.bernardghanem.com/home), where he worked on [Query Localization in Long-form Videos](https://academia.kaust.edu.sa/en/studentTheses/query-localization-in-long-form-videos)
+In 2023, Frost recieved his PhD degree at [King Abdullah University of Science and Technology (KAUST)](https://www.kaust.edu.sa/en) under the supervision of [Professor Bernard Ghanem](https://www.bernardghanem.com/home), where he worked on [Query Localization in Long-form Videos](https://academia.kaust.edu.sa/en/studentTheses/query-localization-in-long-form-videos)
 
 Please email xu.frost[at]gmail.com for the up-to-date CV.
