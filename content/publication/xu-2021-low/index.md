@@ -9,6 +9,6 @@ authors:
 date: '2021-01-01'
 publishDate: '2024-02-29T22:35:36.140625Z'
 publication_types:
-- pub_journal
+- "1"
 publication: '*Advances in Neural Information Processing Systems*'
 ---

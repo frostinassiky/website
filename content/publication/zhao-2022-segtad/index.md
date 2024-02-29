@@ -8,6 +8,6 @@ authors:
 date: '2022-01-01'
 publishDate: '2024-02-29T22:35:36.134020Z'
 publication_types:
-- pub_conf
+- "1"
 publication: '*European Conference on Computer Vision*'
 ---
