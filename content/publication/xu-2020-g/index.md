@@ -54,10 +54,9 @@ featured: true
 tags: []
 projects: []
 image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
   filename: featured.png
+  focal_point: Smart
+  preview_only: false
 date: 2013-07-01T00:00:00.000Z
 url_slides: ""
 publishDate: 2017-01-01T00:00:00.000Z
