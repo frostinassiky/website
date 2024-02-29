@@ -10,6 +10,6 @@ authors:
 date: '2019-01-01'
 publishDate: '2024-02-29T22:35:36.050736Z'
 publication_types:
-- article-journal
+- pub_journal
 publication: '*IEEE Transactions on Circuits and Systems for Video Technology*'
 ---

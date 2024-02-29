@@ -11,6 +11,6 @@ authors:
 date: '2020-01-01'
 publishDate: '2024-02-29T22:35:36.090471Z'
 publication_types:
-- paper-conference
+- pub_conf
 publication: '*The Conference on Computer Vision and Pattern Recognition (CVPR) Workshops*'
 ---

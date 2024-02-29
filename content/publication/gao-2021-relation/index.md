@@ -9,6 +9,6 @@ authors:
 date: '2021-01-01'
 publishDate: '2024-02-29T22:35:36.128047Z'
 publication_types:
-- paper-conference
+- pub_conf
 publication: '*The 2021 Conference on Empirical Methods in Natural Language Processing*'
 ---

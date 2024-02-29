@@ -9,6 +9,6 @@ authors:
 date: '2022-01-01'
 publishDate: '2024-02-29T22:35:36.102421Z'
 publication_types:
-- paper-conference
+- pub_conf
 publication: '*2022 International Conference on 3D Vision (3DV)*'
 ---

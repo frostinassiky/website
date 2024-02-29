@@ -12,6 +12,6 @@ authors:
 date: '2019-01-01'
 publishDate: '2024-02-29T22:35:36.084279Z'
 publication_types:
-- paper-conference
+- pub_conf
 publication: '*The IEEE International Conference on Computer Vision (ICCV) Workshops*'
 ---

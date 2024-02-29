@@ -9,7 +9,7 @@ authors:
 date: '2023-01-01'
 publishDate: '2024-02-29T22:35:36.196015Z'
 publication_types:
-- paper-conference
+- pub_conf
 publication: '*Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern
   Recognition*'
 ---
