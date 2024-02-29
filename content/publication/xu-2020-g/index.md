@@ -1,25 +1,5 @@
 ---
-abstract: "Temporal action detection is a fundamental yet challeng\x02ing task
-  in video understanding. Video context is a critical cue to effectively detect
-  actions, but current works mainly focus on temporal context, while neglecting
-  semantic con\x02text as well as other important context properties. In this
-  work, we propose a graph convolutional network (GCN) model to adaptively
-  incorporate multi-level semantic con\x02text into video features and cast
-  temporal action detection as a sub-graph localization problem. Specifically,
-  we for\x02mulate video snippets as graph nodes, snippet-snippet
-  cor\x02relations as edges, and actions associated with context as
-
-  target sub-graphs. With graph convolution as the basic operation, we design
-  a GCN block called GCNeXt, which learns the features of each node by
-  aggregating its context and dynamically updates the edges in the graph. To
-  local\x02ize each sub-graph, we also design an SGAlign layer to em\x02bed each
-  sub-graph into the Euclidean space. Extensive ex\x02periments show that G-TAD
-  is capable of finding effective
-
-  video context without extra supervision and achieves state\x02of-the-art
-  performance on two detection benchmarks. On ActivityNet-1.3, it obtains an
-  average mAP of 34.09%; on THUMOS14, it reaches 51.6% at IoU@0.5 when combined
-  with a proposal processing method. "
+abstract: Temporal action detection is a fundamental yet challenging task in video understanding. Video context is a critical cue to effectively detect actions, but current works mainly focus on temporal context, while neglecting semantic context as well as other important context properties. In this work, we propose a graph convolutional network (GCN) model to adaptively incorporate multi-level semantic context into video features and cast temporal action detection as a sub-graph localization problem. Specifically, we formulate video snippets as graph nodes, snippet-snippet correlations as edges, and actions associated with context as target sub-graphs. With graph convolution as the basic operation, we design a GCN block called GCNeXt, which learns the features of each node by aggregating its context and dynamically updates the edges in the graph. To localize each sub-graph, we also design a SGAlign layer to embed each sub-graph into the Euclidean space. Extensive experiments show that G-TAD is capable of finding effective video context without extra supervision and achieves state-of-the-art performance on two detection benchmarks. On ActityNet-1.3, we obtain an average mAP of 34.09%; on THUMOS14, we obtain 40.16% in mAP@0.5, beating all the other one-stage methods.
 slides: ""
 url_pdf: ""
 publication_types:
@@ -32,17 +12,17 @@ authors:
   - Bernard Ghanem
 author_notes: []
 publication: CVPR 2020
-summary: >
-  Recent studies show that context can be used as a clue to help understanding
-  action before or after the snippet. Thus,
+# summary: >
+#   Recent studies show that context can be used as a clue to help understanding
+#   action before or after the snippet. Thus,
 
-  we formulated action localization task to a sub-graph detection problem, solved by graph convolutional network.
-
-
-  • A multi-graph convolutional layer is designed to progressively represent the video snippet by its adaptive semantics.
+#   we formulated action localization task to a sub-graph detection problem, solved by graph convolutional network.
 
 
-  • The method achieves SOTA performance on two large-scale video benchmarks for human activity localization.
+#   • A multi-graph convolutional layer is designed to progressively represent the video snippet by its adaptive semantics.
+
+
+#   • The method achieves SOTA performance on two large-scale video benchmarks for human activity localization.
 url_dataset: ""
 url_project: ""
 publication_short: ""
@@ -54,8 +34,9 @@ featured: true
 tags: []
 projects: []
 image:
-  filename: featured.png
-  focal_point: Smart
+  caption: 'Graph formulation of a video. Nodes: video snippets (a video snippet is defined as consecutive frames within a short time period). Edges: snippet-snippet correlations. Sub-graphs: actions associated with context. There are 4 types of nodes: action, start, end, and background, shown as colored dots. There are 2 types of edges: (1) temporal edges, which are pre-defined according to the snippets’ temporal order; (2) semantic edges, which are learned from node features.'
+  focal_point: ""
+  placement: 2
   preview_only: false
 date: 2013-07-01T00:00:00.000Z
 url_slides: ""
