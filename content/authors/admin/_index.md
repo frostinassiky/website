@@ -24,27 +24,24 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/frost-xu/
 organizations:
-  - name: AI at Meta
+  - name: Meta
     url: https://ai.facebook.com/
   - name: KAUST
     url: https://www.kaust.edu.sa/
 education:
   courses:
-    - course: PhD in Electrical and Computer Engineering
+    - course: MS/PhD in Electrical and Computer Engineering
       institution: King Abdullah University of Science and Technology
-      year: "2023"
-    - course: MEng in Electrical and Engineering
-      institution: King Abdullah University of Science and Technology
-      year: "2019"
+      year: "2017 - 2023"
     - course: BSc in Opto-Elctronics Information Science and Engineering
       institution: Zhejiang University
-      year: "2017"
+      year: "2013 - 2017"
 email: xu.frost[at]gmail.com
 superuser: true
 highlight_name: false
 ---
 
 Frost is an AI Research Scientist at [Meta](https://ai.meta.com), based in London. He is dedicated to advancing the field of video generation and understanding, with the ultimate goal of giving people the power to build community and bring the world closer together.  His work involves conducting both fundamental and applied research in this area.
-In 2023, Frost recieved his PhD degree at [King Abdullah University of Science and Technology (KAUST)](https://www.kaust.edu.sa/en) under the supervision of [Professor Bernard Ghanem](https://www.bernardghanem.com/home), where he worked on [Query Localization in Long-form Videos](https://academia.kaust.edu.sa/en/studentTheses/query-localization-in-long-form-videos)
+In 2023, Frost recieved his PhD degree at [King Abdullah University of Science and Technology (KAUST)](https://www.kaust.edu.sa/en) under the supervision of [Professor Bernard Ghanem](https://www.bernardghanem.com/home), where he worked on [Query Localization in Long-form Videos](https://academia.kaust.edu.sa/en/studentTheses/query-localization-in-long-form-videos).
 
 Please email xu.frost[at]gmail.com for the up-to-date CV.

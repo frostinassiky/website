@@ -16,18 +16,18 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 90%
+- description: 2013 - Present
   icon: python
   icon_pack: fab
-  name: Python
-- description: 100%
+  name: Engineering
+- description: 2017 - Present
   icon: chart-line
   icon_pack: fas
   name: Deep Learning
-- description: 10%
+- description: 2020 - Present
   icon: camera-retro
   icon_pack: fas
-  name: Photography
+  name: Generative Model
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
