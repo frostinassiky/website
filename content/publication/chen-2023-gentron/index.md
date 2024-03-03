@@ -15,7 +15,7 @@ author_notes:
   - 'Equal contribution'
   - 'Equal contribution'
 date: '2023-01-01'
-publishDate: '2024-02-29T22:35:36.171167Z'
+publishDate: '2024-06-21T22:35:36.171167Z'
 publication_types:
 - "1"
 publication: 'CVPR 2024'
